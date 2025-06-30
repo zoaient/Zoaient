@@ -1,11 +1,16 @@
-# Coucou c'est zoé
+# Zoaient 
 
-
-      
 <p align="center">
-  <img src="ivy_surprise.gif" alt="Démonstration de l'extension Tamarin" width="600"/>
+  <img src="katharine_normal.gif"  width="600"/>
 </p>
 
+<p align="center">
+  <img src="ivy_surprise.gif"  width="600"/>
+</p>
+
+<p align="center">
+  <img src="arthur_surpris.gif"  width="600"/>
+</p>
     
 
 Bonne journée ! 
